@@ -1,0 +1,13 @@
+
+        bring in a properties file from camel-context.xml
+        bring in a properties file java call
+        consume properties in a uri
+        consume properties in class with annotations
+        consume properties in a class with context.resolvePropertyPlaceholders
+        over-riding a property with a -D flag property
+        simple language
+        placeholder 
+    excluded
+        all things xml
+        all things blueprint/osgi
+        all things spring bridge
